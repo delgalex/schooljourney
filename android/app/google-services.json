@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "517485879334",
+    "project_id": "plataformas-b6a96",
+    "storage_bucket": "plataformas-b6a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517485879334:android:1c945aa280c8b2ab30c6e7",
+        "android_client_info": {
+          "package_name": "com.plataformasintegrales.school_journey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517485879334-n2s3cmbsom2qjkpg67d9e63n7v8s6dvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plataformasintegrales.school_journey",
+            "certificate_hash": "5282645c72f984cc7aee68425f71f10a5c48f5d2"
+          }
+        },
+        {
+          "client_id": "517485879334-be9g06obie3pac0rc2937h67porehjk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8yCTHkD2z-kdOcCx9SbqpNt-V4w1NwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517485879334-be9g06obie3pac0rc2937h67porehjk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517485879334-sq3q33i0i881obbr1226fq5a0hg9cvgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plataformasintegrales.schooljourney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>517485879334-sq3q33i0i881obbr1226fq5a0hg9cvgu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.517485879334-sq3q33i0i881obbr1226fq5a0hg9cvgu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>517485879334-fjihobv2e4d1vllbtcaq2j09pk128gef.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoCYFnH7UshKyc-Xhuwjevh5SIdq5_uNg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517485879334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.plataformasintegrales.schooljourney</string>
+	<key>PROJECT_ID</key>
+	<string>plataformas-b6a96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plataformas-b6a96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517485879334:ios:99df0e9a4224211230c6e7</string>
+</dict>
+</plist>
